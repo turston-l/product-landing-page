@@ -7,5 +7,9 @@
 
 * Product landing page using HTML CSS And JavaScrip
 
-* CSS Flex box and CSS Grid system and Some CSS Properties such as nth child selector, ::before & ::after much more.
+* CSS Flex box and CSS Grid system
+
+* Some CSS Properties such as nth child selector
+
+* ::before & ::after much more.
 # product-landing-page
