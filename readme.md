@@ -11,5 +11,4 @@
 
 * Some CSS Properties such as nth child selector
 
-* ::before & ::after much more.
-# product-landing-page
+* ::before & ::after
